@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+}
+
+.mew-form {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+}
